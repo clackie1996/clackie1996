@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clackie1996
-- 👀 I’m interested in game emulation, game engines and content management systems (what a mix!).
-- 🌱 I’m currently learning React and Godot, in what little free time I have!
+- 👀 I’m interested in game emulation, game engines and game dev.
+- 🌱 I’m currently learning Godot.
 
 <!---
 clackie1996/clackie1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
